@@ -1,1 +1,1 @@
-<img src ="suzuran.jpg"alt="イルミナティ"title="イルミナティ"/>
+<img src =".jpg"alt="イルミナティ"title="イルミナティ"/>
